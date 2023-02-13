@@ -1,2 +1,2 @@
-# Beecrowd
-Atividades realizadas da plataforma Beecrowd.
+# Atividades 
+- Atividades feitas no Beecrowd: https://www.beecrowd.com.br/
